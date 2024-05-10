@@ -1,7 +1,7 @@
 function Form(){
-    const handleSubmit = (e) => {
-        e.preventDefault();
-        e.target.reset();
+    const handleSubmit = (event) => {
+        event.preventDefault();
+        event.target.reset();
     };
 
     return (
