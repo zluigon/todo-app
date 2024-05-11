@@ -10,6 +10,9 @@ This is a simple Todo web application built using Next.js, HTML, CSS, and localS
 -   Delete todo items
 -   Data persists across browser sessions using localStorage
 
+## Screenshots
+![Todo App](https://i.ibb.co/BTSqDZp/localhost-3000.png)
+
 ## Technologies Used
 
 -   [Next.js](https://nextjs.org/) - React framework for server-side rendering and static site generation
