@@ -1,5 +1,3 @@
-"use client";
-
 function Form() {
 	const handleSubmit = (event) => {
 		event.preventDefault();
